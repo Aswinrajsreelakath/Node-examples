@@ -1,7 +1,3 @@
-// const { stringify } = require("querystring");
-
-
-
 //http://localhost:3002/getPaginatedUsers?pageNumber=1&count=10
 
 const http=require("http")
